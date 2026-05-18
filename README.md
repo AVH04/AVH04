@@ -1,4 +1,4 @@
-# Angel Gabriel Valdivia Flores
+# Angel G. Valdivia
 ### Arquitectura de seguridad ofensiva | Infraestructura cloud-native | Redes empresariales
 
 **Contacto profesional**
@@ -27,9 +27,9 @@ Resultados operativos documentados tras intervenciones directas en entornos de i
 
 ---
 
-## Certificaciones tecnicas de elite
+## Certificaciones tecnicas
 
-### Certificaciones de alta exigencia practica
+### Certificaciones
 
 **BSCP -- Burp Suite Certified Practitioner**
 PortSwigger | Vigencia: 2026 -- 2032
